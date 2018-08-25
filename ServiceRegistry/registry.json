@@ -1,0 +1,14 @@
+{
+  "Service_Name" : "XYZ Service",
+  "Service_Call_Name" :  "XYZ",
+  "Configs" : {
+    "location"  : "url",
+    "port" : 3506,
+    "type" : "REST, SOAP",
+    "method" : "GET, POST",
+    "parameters" : {
+      "parameter_01" : "text",
+      "parameter_02" : "number"
+    }
+  }
+}
