@@ -153,5 +153,6 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="library" name="javax.ws.rs" level="project" />
   </component>
 </module>
