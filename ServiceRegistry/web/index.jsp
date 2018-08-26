@@ -8,11 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Service Registry</title>
+    <title>$Title$</title>
   </head>
   <body>
-  Service Registry
-  <br>
-  You can't access Service Registry like this :P
+  $END$
   </body>
 </html>

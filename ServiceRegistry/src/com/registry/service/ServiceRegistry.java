@@ -1,9 +1,11 @@
 package com.registry.service;
 
-import org.omg.CORBA.PUBLIC_MEMBER;
-
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
 import java.util.HashMap;
 import java.util.Map;
+
+@Path("/UserService")
 
 public class ServiceRegistry {
 
@@ -31,10 +33,21 @@ public class ServiceRegistry {
 
     }
 
+    @GET
+    @Path("/users")
+//    @Produces(MediaType.APPLICATION_JSON)
     public String getService(String service) {
 
-        return registry.get(service);
+            registry.put("xyz", "localhost");
+            registry.put("usd", "heroku");
 
+        String content = new String();
+
+        return registry.get("usd");
+
+//        return registry.get(service);
+//        System.out.println(content.toString());
+//        return content.toString();
     }
 
     public boolean removeService(String service) {
