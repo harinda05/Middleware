@@ -8,6 +8,6 @@ app.listen(port);
 app.use(bodyParser.json());
 
 app.use('/', currencyConverter);
-console.log('RESTful API server started on: ' + port);
+console.log('RESTful API server started on port : ' + port);
 
 
