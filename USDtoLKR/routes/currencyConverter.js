@@ -1,6 +1,6 @@
 const express = require('express');
 router = express.Router();
-var oneUSD = 1;
+var oneUSD = 160.29;
 
 router.post('/', function(req,res){
     var amount = req.body.amount;
