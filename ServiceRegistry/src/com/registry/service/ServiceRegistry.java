@@ -2,6 +2,7 @@ package com.registry.service;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -34,16 +35,16 @@ public class ServiceRegistry {
     }
 
     @GET
-    @Path("/users")
+    @Path("/users/{id}")
 //    @Produces(MediaType.APPLICATION_JSON)
-    public String getService(String service) {
+    public String getService(@PathParam("id") String id) {
 
-            registry.put("xyz", "localhost");
-            registry.put("usd", "heroku");
+        registry.put("xyz", "localhost");
+        registry.put("usd", "heroku");
 
         String content = new String();
 
-        return registry.get("usd");
+        return registry.get(id);
 
 //        return registry.get(service);
 //        System.out.println(content.toString());
