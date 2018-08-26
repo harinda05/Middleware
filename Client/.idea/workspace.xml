@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="297f31b1-18f3-417b-a856-3404165c3857" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Services.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Middleware.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.gradle/4.8/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.idea/libraries/javax_ws_rs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/libs/javax.ws.rs.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/out/production/ServiceRegistry/Middleware/Middleware.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/out/production/ServiceRegistry/com/registry/service/ServiceRegistry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../USDtoLKR/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../USDtoLKR/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceRegistry/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceRegistry/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServiceRegistry/out/production/ServiceRegistry/Middleware/Middleware.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,6 +16,7 @@
     <session id="1455203916">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -107,12 +87,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535290918697</updated>
-      <workItem from="1535290921930" duration="1439000" />
+      <workItem from="1535290921930" duration="2041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1439000" />
+    <option name="totallyTimeSpent" value="2041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
