@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="297f31b1-18f3-417b-a856-3404165c3857" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Services.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Middleware.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.gradle/4.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.idea/libraries/javax_ws_rs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/libs/javax.ws.rs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/out/production/ServiceRegistry/Middleware/Middleware.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServiceRegistry/out/production/ServiceRegistry/com/registry/service/ServiceRegistry.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServiceRegistry/ServiceRegistry.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../USDtoLKR/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../USDtoLKR/server.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
